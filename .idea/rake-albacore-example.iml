@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="albacore (v2.2.1, ruby-2.1.4-p265) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="map (v6.5.5, ruby-2.1.4-p265) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.6.1, ruby-2.1.4-p265) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.4.1, ruby-2.1.4-p265) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.3.2, ruby-2.1.4-p265) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="semver2 (v3.4.0, ruby-2.1.4-p265) [gem]" level="application" />
+  </component>
+</module>
